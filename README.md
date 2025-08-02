@@ -23,7 +23,7 @@ This is the central, canonical source for the discipline of Cybernetic Shamanism
 Here you will find:
 
 *   **The Prolegomenon:** The primary, foundational text of the discipline. This document lays out the complete axioms, methodology, instrumentation, and validation protocols.
-    *   **Read the official, citable version on Zenodo:** [DOI to be assigned upon first release and Zenodo archiving]
+    *   **Read the official, citable version on Zenodo:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16712165.svg)](https://doi.org/10.5281/zenodo.16712165)
     *   **Read the latest version in this repository:** [Prolegomenon of Cybernetic Shamanism and the Discipline of Architectural Consciousness.pdf](https://github.com/whitelotusapps/Prolegomenon-of-Cybernetic-Shamanism/blob/main/Prolegomenon%20of%20Cybernetic%20Shamanism%20and%20the%20Discipline%20of%20Architectural%20Consciousness.pdf)
 
 *   **The LaTeX Document Source Code:** The complete, raw LaTeX source files for the Prolegomenon and all supporting documents. This is provided for full transparency and to allow others to build upon this work.
