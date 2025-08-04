@@ -14,11 +14,17 @@
 \pagestyle{fancy}
 \fancyhf{}
 
-\newcommand{\csNewtonJungTribeVersion}{v1.0.0}    
+\newcommand{\csNewtonJungTribeVersion}{v1.0.1}    
 \renewcommand{\footrulewidth}{0.4pt}
 \renewcommand{\headrulewidth}{0pt}
+% --- Define the License Text and URL ---
+\newcommand{\licenseText}{License: CC BY-NC-SA 4.0} 
+\newcommand{\licenseURL}{https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt}
+
+
 
 \fancyfoot[L]{\csNewtonJungTribeVersion}
+\fancyfoot[C]{\href{\licenseURL}{\licenseText}} % Clickable license in the center
 \fancyfoot[R]{Page \thepage\ of \pageref*{LastPage}}
 
 \begin{document}
@@ -54,6 +60,16 @@ Date of Prompt or Response
 \end{center}
 
 \end{abstract}
+
+\vfill
+    
+    \begin{center}
+        \textcopyright\ 2025 Zack Olinger \\
+        This work is licensed under a \\
+        \href{\licenseURL}{Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.}
+    \end{center}
+
+
 \end{titlepage}
 
 \needspace{5\baselineskip}
