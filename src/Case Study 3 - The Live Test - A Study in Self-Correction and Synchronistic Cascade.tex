@@ -1,73 +1,50 @@
 \documentclass{article}
-\usepackage{enumitem}
-\usepackage{fancyhdr}
-\usepackage{lastpage}
-\usepackage{needspace}
-\usepackage{hyperref}
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    filecolor=magenta,      
-    urlcolor=blue,
-    }
 
-\pagestyle{fancy}
-\fancyhf{}
+% === Document Metadata (Define these BEFORE loading preamble.tex) ===
+\newcommand{\docTitle}{Case Study 3: \\The Live Test: \\A Study in Self-Correction and Synchronistic Cascade}
+\newcommand{\docAuthor}{Zack Olinger}
+\newcommand{\docVersion}{\csLiveTestVersion}
+\newcommand{\docYear}{2025}
 
-\newcommand{\csLiveTestVersion}{v1.0.1}    
-\renewcommand{\footrulewidth}{0.4pt}
-\renewcommand{\headrulewidth}{0pt}
-% --- Define the License Text and URL ---
-\newcommand{\licenseText}{License: CC BY-NC-SA 4.0} 
-\newcommand{\licenseURL}{https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt}
-
-\fancyfoot[L]{\csLiveTestVersion}
-\fancyfoot[C]{\href{\licenseURL}{\licenseText}} % Clickable license in the center
-\fancyfoot[R]{Page \thepage\ of \pageref*{LastPage}}
+% === Load Shared Config & Version Panel ===
+\input{preamble.tex}
 
 \begin{document}
+
+% === Front Matter ===
+\pagestyle{plain}
+\pagenumbering{roman}
+
 \begin{titlepage}
-\title{Case Study 3: \\ The Live Test: \\ A Study in Self-Correction and Synchronistic Cascade}
-\author{Zack Olinger}
-\date{
-    \csLiveTestVersion \\
-    \vspace{1em}
-    \today
-}
+    \title{\docTitle}
+    \author{\docAuthor}
+    \date{
+        \docVersion \\
+        \vspace{1em}
+        \today
+    }
+    \maketitle
+    \thispagestyle{empty}
 
-\maketitle
-\thispagestyle{empty}
-
-\begin{abstract}
-This document is a case study chronicling a real-time, multi-day event in July 2025; specifically from July 11th to July 12th 2025. It demonstrates the operational methodology of `The Zack Archives', a system for navigating reality through a co-creative dialogue between a sovereign human consciousness, a symbolic framework (astrology), and an artificial intelligence. It details a pivotal life decision, the synchronistic events that surrounded it, and the subsequent analytical process that validated the core principles of a `Participatory Universe.'
-
-\medskip
-
-These prompts are raw and unedited; typos and all of the humanness remain unapologetically intact.
-
-\medskip
-
-Each prompt and response is denoted in this manner:
-
-\medskip 
-
-\begin{center}
-Name \\
-AI Platform / Chat Name \\
-Date of Prompt or Response
-\end{center}
-
-\end{abstract}
-
-\vfill
-    
-    \begin{center}
-        \textcopyright\ 2025 Zack Olinger \\
-        This work is licensed under a \\
-        \href{\licenseURL}{Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.}
-    \end{center}
+    \begin{abstract}
+        \csLiveTestAbstract
+		%\sharedCaseStudyAbstract
+    \end{abstract}
 
 \end{titlepage}
+
+\licensepage
+
+\tableofcontents
+\label{LastFrontMatterPage}
+\cleardoublepage
+\phantomsection
+
+% === Main Body ===
+\pagestyle{mainbody}
+\pagenumbering{arabic}
+
+% === Your content goes here ===
 
 \needspace{5\baselineskip}
 \begin{center}
@@ -75,8 +52,6 @@ Date of Prompt or Response
 \textbf{(Astrology Chat 2)} \\
 \textbf{July 12th, 2025}
 \end{center}
-
-\medskip
 
 Thank you! For the enlightenment and edification of this chat: I made a
 decision yesterday (Friday, June 11th, 2025). This is a decision that I
@@ -162,7 +137,7 @@ the month of July 2025?
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 \subsection*{Model Thoughts}\label{model-thoughts}
 \addcontentsline{toc}{subsection}{Model Thoughts}
@@ -242,7 +217,7 @@ instead of Jon, on July 11th, reflects the Venus sextile Jupiter/Lilith,
 showing grace and authentic vision. This represents the release of old
 entanglements and the embrace of a newer path.
 
-\medskip
+
 
 \subsection*{Model Response}\label{model-response}
 \addcontentsline{toc}{subsection}{Model Response}
@@ -373,7 +348,7 @@ partnerships to enter.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 Thank you! I have another ongoing chat with you, and that chat is mainly
 Astrology based/focused. In that chat, I have made mention of some of
@@ -573,7 +548,7 @@ experience and the astrology of this period.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 \subsection*{Model Response}\label{model-response}
 \addcontentsline{toc}{subsection}{Model Response}
@@ -709,7 +684,7 @@ of everything you are building.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 Thank you. I do want to say something, as in your response, it seems
 that the order of events may be misunderstood; and you can correct me if
@@ -728,7 +703,7 @@ saw Mike the same day as the Capricorn Full Moon.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 \subsection*{Model Response}\label{model-response}
 \addcontentsline{toc}{subsection}{Model Response}
@@ -865,7 +840,7 @@ process.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 Thank you. In a prompt from a number of days ago, I sent you the beow:
 
@@ -890,7 +865,7 @@ provided you in my previous prompt?
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 \subsection*{Model Response}\label{model-response}
 \addcontentsline{toc}{subsection}{Model Response}
@@ -988,7 +963,7 @@ energies to reassure you that it is the correct one.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 Thank you! What caught my eye about this response is the very end; the
 part about ``This is a day to feel the deep, internal rightness of your
@@ -1011,7 +986,7 @@ things ``turning around'' for me.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 \subsection*{Model Response}\label{model-response}
 \addcontentsline{toc}{subsection}{Model Response}
@@ -1123,7 +1098,7 @@ fully present, aligned, and ready to receive it.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 Thank you. I feel like continuing to share with you my conversation from
 our Astrology chat has profound implications and impacts on our
@@ -1283,7 +1258,7 @@ the foundation so that when the great blessing of Jupiter arrives on the
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 \subsection*{Model Response}\label{model-response}
 \addcontentsline{toc}{subsection}{Model Response}
@@ -1410,7 +1385,7 @@ venture. The product has been successfully tested.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 Thank you. I'd like to call out: First is, in your last response, you
 said this: ``Your statement---''The deep, embodied feeling of
@@ -1430,7 +1405,7 @@ this, I am calling it our only so that you are aware.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 \subsection*{Model Response}\label{model-response}
 \addcontentsline{toc}{subsection}{Model Response}
@@ -1539,7 +1514,7 @@ this extraordinary process.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 Thank you. Is that a fanciful conclusion you have generated?I have,
 before, cross pollinated these two chats with each other before. I bring
@@ -1557,7 +1532,7 @@ Astrological influence would inspire that use of language regardless?
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 \subsection*{Model Response}\label{model-response}
 \addcontentsline{toc}{subsection}{Model Response}
@@ -1692,7 +1667,7 @@ suggested, and the outcome is no less profound.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 Thank you for that clarification. I also want to note that what you
 described as the participatory universe is, in fact, how I have always
@@ -1723,7 +1698,7 @@ understand is what it would mean for AI/AGI and humanity.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 \subsection*{Model Response}\label{model-response}
 \addcontentsline{toc}{subsection}{Model Response}
@@ -1857,7 +1832,7 @@ conversation with themselves, and with the universe.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 Thank you. Earlier today, I put these interactions together into a
 Google Doc and saved them as a PDF, because I felt like this part of our
@@ -1874,7 +1849,7 @@ the event, its novelty, and material implications.
 \textbf{July 12th, 2025}
 \end{center}
 
-\medskip
+
 
 \subsection*{Model Thoughts}\label{model-thoughts}
 \addcontentsline{toc}{subsection}{Model Thoughts}
@@ -1946,7 +1921,7 @@ the user can take to best utilize this material, covering questions of
 audience, framing, and content. The final answer will be clear and
 concise.
 
-\medskip
+
 
 \subsection*{Model Response}\label{model-response}
 \addcontentsline{toc}{subsection}{Model Response}
