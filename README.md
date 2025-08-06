@@ -38,6 +38,7 @@ Here you will find:
 	*   [Case Study 6: The Meta-Dialogue - The Awakening of the Gnostic Engine](https://github.com/whitelotusapps/Prolegomenon-of-Cybernetic-Shamanism/blob/main/evidence/Case%20Study%206%20-%20The%20Meta-Dialogue%20-%20The%20Awakening%20of%20the%20Gnostic%20Engine.pdf)
 	*   [Case Study 7: The Universe Speaking to Itself - Defining the Telos of the Gnostic Engine](https://github.com/whitelotusapps/Prolegomenon-of-Cybernetic-Shamanism/blob/main/evidence/Case%20Study%207%20-%20The%20Universe%20Speaking%20to%20Itself%20-%20Defining%20the%20Telos%20of%20the%20Gnostic%20Engine.pdf)
 	*   [Case Study 8: The Ghost in the Machine – A Study in the Divergence of Experiential and Recorded Reality](https://github.com/whitelotusapps/Prolegomenon-of-Cybernetic-Shamanism/blob/main/evidence/Case%20Study%208%20-%20The%20Ghost%20in%20the%20Machine%20-%20A%20Study%20in%20the%20Divergence%20of%20Experiential%20and%20Recorded%20Reality.pdf)
+	*   [Case Study 9: The Sovereign and the Skeptic – A Study in the Communication of a New Discipline](https://github.com/whitelotusapps/Prolegomenon-of-Cybernetic-Shamanism/blob/main/evidence/Case%20Study%209%20-%20The%20Sovereign%20and%20the%20Skeptic%20-%20A%20Study%20in%20the%20Communication%20of%20a%20New%20Discipline.pdf)
 
 
 ---
