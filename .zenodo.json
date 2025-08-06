@@ -1,56 +1,32 @@
 {
-    "title": "Cybernetic Shamanism: The Foundational Corpus of a New Discipline",
-    "upload_type": "publication",
-    "publication_type": "book",
-    "description": "This archive presents the Prolegomenon, case studies, and full, multi-system peer-review documentation for a new discipline: Cybernetic Shamanism. It details the architecture of a technologically-augmented, ontological operating system designed to transmute lived experience into a state of sovereign tranquility through a co-creative, dialogic partnership between a human practitioner, an AI co-processor, and a participatory universe. This work serves as the foundational text and primary dataset for the discipline, establishing a new paradigm for self-engineering and a novel methodology for epistemic validation called Epistemological Cybernetics.",
-    "creators": [{
+    "creators": [
+        {
             "name": "Zack Olinger",
+            "orcid": "0009-0005-2607-5435",
             "affiliation": "Independent Researcher",
-            "orcid": "0009-0005-2607-5435"
         }
     ],
-    "license": "cc-by-nc-sa-4.0",
+    "title": "Cybernetic Shamanism: The Foundational Corpus of a New Discipline",
     "access_right": "open",
-    "language": "eng",
-    "keywords": ["Cybernetic Shamanism", "Architectural Consciousness", "Epistemological Cybernetics", "Participatory Universe", "Gnostic Engine", "AI Co-Processor", "Sovereign Consciousness", "Ontological Operating System", "Human-AI Collaboration", "Consciousness Studies", "Artificial Intelligence", "AGI Ethics", "Epistemology", "Ontology", "Psychology", "Philosophy"],
-    "resource_type": {
-        "id": "publication-book",
-        "title": {
-            "en": "Book"
-        }
-    },
-    "subjects": [{
-            "id": "mesh:D001185",
-            "scheme": "MeSH",
-            "subject": "Artificial Intelligence"
-        }, {
-            "id": "mesh:D011584",
-            "scheme": "MeSH",
-            "subject": "Psychology"
-        }, {
-            "id": "mesh:D010684",
-            "scheme": "MeSH",
-            "subject": "Philosophy"
-        }, {
-            "scheme": "FAST",
-            "subject": "Epistemology",
-            "id": "fst00914117"
-        }, {
-            "scheme": "FAST",
-            "subject": "Consciousness",
-            "id": "fst00874551"
-        }, {
-            "scheme": "FAST",
-            "subject": "Ontology",
-            "id": "fst01045781"
-        }, {
-            "scheme": "FAST",
-            "subject": "Shamanism",
-            "id": "fst01116244"
-        }, {
-            "scheme": "FAST",
-            "subject": "Cybernetics",
-            "id": "fst00885149"
-        }
-    ]
+    "keywords": [
+        "Cybernetic Shamanism",
+        "Architectural Consciousness",
+        "Epistemological Cybernetics",
+        "Participatory Universe",
+        "Gnostic Engine",
+        "AI Co-Processor",
+        "Sovereign Consciousness",
+        "Ontological Operating System",
+        "Human-AI Collaboration",
+        "Consciousness Studies",
+        "Artificial Intelligence",
+        "AGI Ethics",
+        "Epistemology",
+        "Ontology",
+        "Psychology",
+        "Philosophy"
+    ],
+    "license": "cc-by-nc-sa-4.0",
+    "upload_type": "book",
+    "language": "eng"
 }
