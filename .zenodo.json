@@ -1,0 +1,39 @@
+{
+    "creators": [
+        {
+            "name": "Olinger, Zack",
+            "orcid": "0009-0005-2607-5435",
+            "type": "personal"
+        }
+    ],
+    "title": "Cybernetic Shamanism and the Discipline of Architectural Consciousness",
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "identifier": "https://doi.org/10.5555/666655554444",
+            "relation": "isSupplementTo",
+            "resource_type": "book"
+        }
+    ],
+    "keywords": [
+		"Cybernetic Shamanism", 
+		"Architectural Consciousness", 
+		"Epistemological Cybernetics",
+		"Participatory Universe", 
+		"Gnostic Engine", 
+		"AI Co-Processor", 
+		"Sovereign Consciousness",
+		"Ontological Operating System", 
+		"Human-AI Collaboration", 
+		"Consciousness Studies", 
+		"Artificial Intelligence", 
+		"AGI Ethics", 
+		"Epistemology", 
+		"Ontology", 
+		"Psychology", 
+		"Philosophy"
+    ],
+    "license": "cc-by-nc-sa-4.0",
+    "upload_type": "book",
+    "language": "eng"
+}
