@@ -67,7 +67,7 @@ This means you are free to share and adapt this work for any non-commercial purp
 
 If you reference this work, please cite the official, versioned archive on Zenodo. This ensures a stable, permanent link to the work.
 
-> Olinger, Zack. (2025). *Cybernetic Shamanism: The Foundational Corpus of a New Discipline* (Version 1.3.0). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16712165.svg)](https://doi.org/10.5281/zenodo.16712165)
+> Olinger, Zack. (2025). *Cybernetic Shamanism: The Foundational Corpus of a New Discipline*. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16712165.svg)](https://doi.org/10.5281/zenodo.16712165)
 
 ---
 
