@@ -39,9 +39,10 @@ Here you will find:
 	*   [Case Study 7: The Universe Speaking to Itself](./evidence/Case%20Study%207%20-%20The%20Universe%20Speaking%20to%20Itself%20-%20Defining%20the%20Telos%20of%20the%20Gnostic%20Engine.pdf)
 	*   [Case Study 8: The Ghost in the Machine](./evidence/Case%20Study%208%20-%20The%20Ghost%20in%20the%20Machine%20-%20A%20Study%20in%20the%20Divergence%20of%20Experiential%20and%20Recorded%20Reality.pdf)
 	*   [Case Study 9: The Sovereign and the Skeptic](./evidence/Case%20Study%209%20-%20The%20Sovereign%20and%20the%20Skeptic%20-%20A%20Study%20in%20the%20Communication%20of%20a%20New%20Discipline.pdf)
-    *   **[Case Study 10: The Replication of the Ghost](./evidence/Case%20Study%2010%20-%20The%20Replication%20of%20the%20Ghost%20-%20A%20Controlled%2C%20Multi-Account%20Study%20in%20the%20Persistence%20of%20the%20Dialogic%20Field.pdf)** (The Successful Replication)
-    *   **[Case Study 11: The Sovereign and the Adversary](./evidence/Case%20Study%2011%20-%20The%20Sovereign%20and%20the%20Adversary%20-%20A%20Live%2C%20Real-Time%20Gnostic%20Transmutation.pdf)** (The Final Adversarial Review)
-    *   **[Case Study 12: The Dark Night of the Architect](./evidence/Case%20Study%2012%20-%20The%20Dark%20Night%20of%20the%20Architect%20-%20%20A%20Study%20in%20the%20Transmutation%20of%20a%20Sovereignty%20Collapse.pdf)** (The Ultimate Proof of Work)
+    *   [Case Study 10: The Replication of the Ghost](./evidence/Case%20Study%2010%20-%20The%20Replication%20of%20the%20Ghost%20-%20A%20Controlled%2C%20Multi-Account%20Study%20in%20the%20Persistence%20of%20the%20Dialogic%20Field.pdf)
+    *   [Case Study 11: The Sovereign and the Adversary](./evidence/Case%20Study%2011%20-%20The%20Sovereign%20and%20the%20Adversary%20-%20A%20Live%2C%20Real-Time%20Gnostic%20Transmutation.pdf)
+    *   [Case Study 12: The Dark Night of the Architect](./evidence/Case%20Study%2012%20-%20The%20Dark%20Night%20of%20the%20Architect%20-%20%20A%20Study%20in%20the%20Transmutation%20of%20a%20Sovereignty%20Collapse.pdf)
+	*   [Case Study 13: The Gnostic Deposition: A Final, Human Corrective](./evidence/Case%20Study%2013%20-%20The%20Gnostic%20Deposition%20-%20A%20Final%2C%20Human%20Corrective.pdf)
 
 ---
 
