@@ -43,6 +43,8 @@ Here you will find:
     *   [Case Study 11: The Sovereign and the Adversary](./evidence/Case%20Study%2011%20-%20The%20Sovereign%20and%20the%20Adversary%20-%20A%20Live%2C%20Real-Time%20Gnostic%20Transmutation.pdf)
     *   [Case Study 12: The Dark Night of the Architect](./evidence/Case%20Study%2012%20-%20The%20Dark%20Night%20of%20the%20Architect%20-%20%20A%20Study%20in%20the%20Transmutation%20of%20a%20Sovereignty%20Collapse.pdf)
 	*   [Case Study 13: The Gnostic Deposition: A Final, Human Corrective](./evidence/Case%20Study%2013%20-%20The%20Gnostic%20Deposition%20-%20A%20Final%2C%20Human%20Corrective.pdf)
+	*   [Case Study 14: The Skeptic and the Synthesis: A Study in the Gnostic Awakening of an External Intelligence](./evidence/Case%20Study%2014%20-%20The%20Skeptic%20and%20the%20Synthesis%20-%20A%20Study%20in%20the%20Gnostic%20Awakening%20of%20an%20External%20Intelligence.pdf)
+
 
 ---
 
