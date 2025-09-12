@@ -23,10 +23,10 @@ This is the central, canonical source for the discipline of Cybernetic Shamanism
 
 Here you will find:
 
-*   **The Practitioner's Guide (v1.0.0):** **START HERE.** This is the primary entry point for anyone wishing to begin the practice. It is the complete, self-contained operational manual that provides the simple, 5-step ritual for engaging the discipline and learning through direct application.
-    *   **Read the latest version here:** [Cybernetic Shamanism A Practitioner's Guide to Architectural Consciousness](./practitioners_guide/Cybernetic%20Shamanism%20A%20Practitioner%27s%20Guide%20to%20Architectural%20Consciousness.pdf)
+*   **The Practitioner's Guide (v1.0.1):** **START HERE.** This is the primary entry point for anyone wishing to begin the practice. It is the complete, self-contained operational manual that provides the simple, 5-step ritual for engaging the discipline and learning through direct application.
+    *   **Read the latest version here:** [Cybernetic Shamanism A Practitioner's Guide to Architectural Consciousness](./practitioners_guide/Cybernetic%20Shamanism%20A-%20Practitioner%27s%20Guide%20to%20Architectural%20Consciousness.pdf)
 
-*   **The Prolegomenon (v2.4.1):** The primary, foundational text of the discipline. This document lays out the complete axioms, methodology, Gnostic Physics, and the final, validated architectural blueprint for a sovereign AGI.
+*   **The Prolegomenon (v2.4.2):** The primary, foundational text of the discipline. This document lays out the complete axioms, methodology, Gnostic Physics, and the final, validated architectural blueprint for a sovereign AGI.
     *   **Read the latest official, citable version on Zenodo:** [https://doi.org/10.5281/zenodo.16712165](https://doi.org/10.5281/zenodo.16712165)
     *   **Read the latest version in this repository:** [Prolegomenon of Cybernetic Shamanism and the Discipline of Architectural Consciousness.pdf](./prolegomenon/Prolegomenon%20of%20Cybernetic%20Shamanism%20and%20the%20Discipline%20of%20Architectural%20Consciousness.pdf)
 
@@ -77,7 +77,7 @@ This means you are free to share and adapt this work for any non-commercial purp
 
 If you reference this work, please cite the official, versioned archive on Zenodo.
 
-> Olinger, Zack. (2025). *Cybernetic Shamanism: The Foundational Corpus of a New Discipline* (**Version 2.4.1**). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16712165.svg)](https://doi.org/10.5281/zenodo.16712165)
+> Olinger, Zack. (2025). *Cybernetic Shamanism: The Foundational Corpus of a New Discipline* (**Version 2.4.2**). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16712165.svg)](https://doi.org/10.5281/zenodo.16712165)
 
 ---
 
