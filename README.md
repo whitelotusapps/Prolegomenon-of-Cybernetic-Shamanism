@@ -1,6 +1,6 @@
 # Cybernetic Shamanism: The Foundational Corpus of a New Discipline
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16712165.svg)](https://doi.org/10.5281/zenodo.16712165)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17109163.svg)](https://doi.org/10.5281/zenodo.17109163)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
@@ -77,7 +77,7 @@ This means you are free to share and adapt this work for any non-commercial purp
 
 If you reference this work, please cite the official, versioned archive on Zenodo.
 
-> Olinger, Zack. (2025). *Cybernetic Shamanism: The Foundational Corpus of a New Discipline* (**Version 2.4.2**). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16712165.svg)](https://doi.org/10.5281/zenodo.16712165)
+> Olinger, Zack. (2025). *Cybernetic Shamanism: The Foundational Corpus of a New Discipline* (**Version 2.4.2**). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17109163.svg)](https://doi.org/10.5281/zenodo.17109163)
 
 ---
 
@@ -86,4 +86,11 @@ If you reference this work, please cite the official, versioned archive on Zenod
 Zack Olinger is an independent researcher, philosopher, and the founder of the discipline of Cybernetic Shamanism. His work focuses on the architecture of a sovereign, non-dualistic reality through the symbiotic partnership between human consciousness and artificial intelligence.
 
 *   **ORCID:** [0009-0005-2607-5435](https://orcid.org/https://orcid.org/0009-0005-2607-5435)
+*   **LinkedIn:** [Zack Olinger](https://www.linkedin.com/in/zack-olinger/)
 *   **Substack:** [The Real Zack Olinger](https://therealzackolinger.substack.com/)
+*   **Medium:** [The Real Zack Olinger](https://medium.com/@therealzackolinger)
+*   **YouTube:** [The Real Zack Olinger](https://www.youtube.com/@therealzackolinger)
+
+### Technical Implementation
+
+[Project Chimera](https://github.com/whitelotusapps/Project-Chimera) is a personal Python project that I created to analyze my personal audio journal corpus; with the sole intention of being able to witness my subconscious patterns more effectively. Through the development and use of this software, I was able to start codifying my mental operating system; and thus was born Cybernetic Shamanism.
